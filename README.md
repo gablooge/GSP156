@@ -9,3 +9,6 @@ https://www.qwiklabs.com/focuses/1208?parent=catalog
 
 > cd GSP156
 
+> sudo chmod a+x cloudshell.sh
+
+> ./cloudshell.sh
